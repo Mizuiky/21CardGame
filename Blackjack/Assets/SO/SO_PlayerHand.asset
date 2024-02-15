@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c001c959b703e2f4c8bb3a38fa5bcc95, type: 3}
+  m_Name: SO_PlayerHand
+  m_EditorClassIdentifier: 
+  handSetup:
+  - position: {x: 0, y: 1, z: 0}
+    rotationX: 0
+    rotationY: 0
+    rotationZ: 0
+    scale: {x: 0.4, y: 0.4000001, z: 1}
+  - position: {x: -1, y: 0.97, z: 0}
+    rotationX: 0
+    rotationY: 0
+    rotationZ: 2.95
+    scale: {x: 0.4000001, y: 0.4000001, z: 1}
+  - position: {x: 1, y: 0.97, z: 0}
+    rotationX: 0
+    rotationY: 4.6
+    rotationZ: -2.95
+    scale: {x: 0.4000001, y: 0.4000001, z: 1}
